@@ -5,7 +5,7 @@ app = Flask(__name__)
 # Data dummy
 data = [
     {"id": 1, "name": "Wahyu"},
-    {"id": 2, "name": "Evi"}
+    {"id": 2, "name": "Wanda"}
 ]
 
 # Endpoint GET
